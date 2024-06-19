@@ -1,12 +1,12 @@
 version: '3'
 services:
   main-app:
-    image: SagarDNG/main-app:latest
+    image: sagardng/main-app:latest
     ports:
       - "5000:5000"
     depends_on:
       - mock-service
   mock-service:
-    image: SagarDNG/mock-service:latest
+    image: sagardng/mock-service:latest
     ports:
       - "5001:5001"

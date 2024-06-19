@@ -1,6 +1,6 @@
 # Dockerized Flask Application with Mock Service
 
-## Stepsto run the App
+## Steps to run the App
 
 This repository contains a Dockerized setup for a Flask application (`main-app`) and a mock service (`mock-service`). Follow the steps below to set up and run the application.
 

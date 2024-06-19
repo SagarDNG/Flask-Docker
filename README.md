@@ -21,8 +21,8 @@ cd Flask-Docker
 Before running the application, pull the Docker images for `main-app` and `mock-service` from Docker Hub using the following commands:
 
 ```
-docker pull SagarDNG/main-app:latest
-docker pull SagarDNG/mock-service:latest
+docker pull sagardng/main-app:latest
+docker pull sagardng/mock-service:latest
 ```
 
 ## Step 3: Start Docker Compose

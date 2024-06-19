@@ -11,8 +11,8 @@ Ensure that Docker is installed on your machine. You can download Docker from [h
 ## Step 1: Clone Repository
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/SagarDNG/Flask-Docker.git
+cd Flask-Docker
 ```
 
 
@@ -21,8 +21,8 @@ cd your-repo
 Before running the application, pull the Docker images for `main-app` and `mock-service` from Docker Hub using the following commands:
 
 ```
-docker pull your-docker-username/main-app:latest
-docker pull your-docker-username/mock-service:latest
+docker pull SagarDNG/main-app:latest
+docker pull SagarDNG/mock-service:latest
 ```
 
 ## Step 3: Start Docker Compose

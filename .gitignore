@@ -1,0 +1,4 @@
+.vscode
+main-app/
+mock-service/
+smoke-tests/

@@ -17,7 +17,7 @@ cd Flask-Docker
 
 
 ## Step 2: Pull Docker Images
-
+(This step is optinal, as docker-compose will pull if we didn't do it manually)
 Before running the application, pull the Docker images for `main-app` and `mock-service` from Docker Hub using the following commands:
 
 ```
